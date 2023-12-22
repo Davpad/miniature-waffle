@@ -1,0 +1,46 @@
+body {
+    margin: 0px 0px 0px 0px;
+    background-color: lightgray;
+}
+
+#heading h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 305px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 100%;
+    background-color: white;
+}
+
+#center-me {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 700px;
+    background-color: white;
+    display: inline-block;
+}
+
+.photo-title {
+    padding-left: 5px;
+    width: 80%;
+    display: flex;
+    float: left;
+}
+
+.photo-number {
+    width: 10%;
+    display: flex;
+    padding-top: 25px;
+    padding-left: 60px;
+    overflow: hidden;
+    color: grey;
+}
+
+p {
+    padding-left: 5px;
+}
